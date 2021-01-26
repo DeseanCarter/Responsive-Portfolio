@@ -33,6 +33,7 @@ main {
   color: #c83200;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
+  text-align: center;
 }
 
 /* NAV START */
@@ -85,6 +86,7 @@ main {
   /* Box-model */
   width: 55px;
   height: 55px;
+  
 }
 
 #images {
@@ -97,8 +99,8 @@ main {
 }
 
 .projectImg {
-  width: 350px;
-  height: 200px;
+  width: 250px;
+  height: 150px;
 }
 
 .projectImg2 {
