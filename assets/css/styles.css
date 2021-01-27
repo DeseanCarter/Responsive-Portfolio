@@ -51,10 +51,10 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #fff;
+  color: #c83200;
 
   /* Visual */
-  background: #3d59ab;
+  /* background: #3d59ab; */
 }
 
 /* override bootstrap hover color and border */
